@@ -106,5 +106,5 @@ Este projeto é um software de código aberto licenciado sob a [MIT license](LIC
 ---
 
 <p align="center">
-  Desenvolvido com ❤️ pela equipe OmniManager
+  Desenvolvido por Tiago Looze 
 </p>
